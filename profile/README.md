@@ -1,4 +1,4 @@
-# Nue
+# NueWay
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/NueWay/.github/blob/main/image0_0_nue.jpg" alt="Fri3nds Group" height="270">
@@ -6,7 +6,7 @@
   <img src="https://github.com/NueWay/.github/blob/main/image1_0%20(73).jpg" alt="Fri3nds Group" height="270">
 </div>
 
-## About Nue  
+## About NueWay 
 
 NueWay is a forward-thinking organization dedicated to driving innovation, fostering collaboration, and promoting excellence in various industries. Our mission is to create a dynamic ecosystem that brings together visionaries, thought leaders, and change-makers to shape the future. 🌍✨  
 
