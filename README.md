@@ -1,6 +1,6 @@
 # Nue
 
-<center><img src="image0_0_nue.jpg" alt="NueWay"></center>
+<center><img src="image0_0_nue.jpg" alt="NueWay" height="350"></center>
 
 ## About Nue  
 
