@@ -1,9 +1,9 @@
 # Nue
 
-<center><img src="image0_0_nue.jpg" alt="NueWay" height="350"></center>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image0_0_nue.jpg" alt="Fri3nds Group" height="350">
-  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image1_0%20(43).jpg" alt="Fri3nds Group" height="350">
+  <img src="https://github.com/NueWay/About.Me/blob/main/image0_0_nue.jpg" alt="Fri3nds Group" height="300">
+  <img src="https://github.com/NueWay/About.Me/blob/main/image1_0%20(43).jpg" alt="Fri3nds Group" height="300">
+  <img src="https://github.com/NueWay/About.Me/blob/main/image1_0%20(73).jpg" alt="Fri3nds Group" height="300">
 </div>
 ## About Nue  
 
