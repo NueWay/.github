@@ -1,31 +1,37 @@
-# Nue
+# Nue 🚀
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/NueWay/.github/blob/main/image0_0_nue.jpg" alt="Fri3nds Group" height="250">
-  <img src="https://github.com/NueWay/.github/blob/main/image1_0%20(10).jpg" alt="Fri3nds Group" height="250">
-  <img src="https://github.com/NueWay/.github/blob/main/image1_0%20(73).jpg" alt="Fri3nds Group" height="250">
-</div>
+```
+$$\   $$\ $$\   $$\ $$$$$$$$\       Nue Programming Language      │  nb (Nue Base)
+$$$\  $$ |$$ |  $$ |$$  _____|       +--> Version iota-1          │   +--> Version 0.0.1
+$$$$\ $$ |$$ |  $$ |$$ |             +--> Version iota-2          │   +--> Version 1.0.1
+$$ $$\$$ |$$ |  $$ |$$$$$\                                        │
+$$ \$$$$ |$$ |  $$ |$$  __|         nBasic Programming Language   │  nbb (NueBasic Base)
+$$ |\$$$ |$$ |  $$ |$$ |             +--> Version iota-2          │   +--> Version 0.0.1
+$$ | \$$ |\$$$$$$  |$$$$$$$$\                                     │
+\__|  \__| \______/ \________|                                    │
+```
 
-## About Nue  
+## About Nue 🧠💡
 
-NueWay is a forward-thinking organization dedicated to driving innovation, fostering collaboration, and promoting excellence in various industries. Our mission is to create a dynamic ecosystem that brings together visionaries, thought leaders, and change-makers to shape the future. 🌍✨  
+Welcome to NueWay, where innovation meets imagination! We're all about driving change, sparking collaboration, and setting the bar high in every industry we touch. Our mission? To build a powerhouse ecosystem that unites visionaries, thought leaders, and trailblazers to create the future. 🌍✨
 
-As the creators of Nue programming language, NueWay empowers developers with a robust and flexible tool designed to revolutionize how applications are built and deployed.
-  
-## Our Focus Areas  
+As the brainiacs behind the Nue programming language, we empower developers with a mighty tool designed to flip the script on how applications are built and launched. 
 
-- **NueLang Development**: Advancing the capabilities and features of `NueLang` to empower developers with cutting-edge tools and libraries. 💻  
+## Our Focus Areas 🎯
 
-- **Nepkgs Ecosystem**: Building a robust ecosystem of Nue packages `Nuepkgs` to support diverse application needs and enhance development efficiency. 📦  
+- **NueLang Development**: Pushing the envelope with `Nue` to arm developers with the coolest, most advanced tools and libraries. 💻  
+  - Say hello to `Nue` and `nBasic`, the latest and greatest in our lineup. 👋
+- **Nepkgs Ecosystem**: Crafting a rock-solid ecosystem of Nue packages, aka `Nuepkgs`, to support every application need and supercharge development efficiency. 📦  
+- **NuePackageManager**: Perfecting `NuePackageManager` to make package management and distribution a breeze for all your Nue projects. 🚀
+  - Meet `.\nb.exe` and `.\nbb.exe`, the superheroes of package managers for both `Nue` and `nBasic`! 🦸‍♂️🦸‍♀️
 
-- **NuePackageManager**: Developing and maintaining `NuePackageManager` to streamline package management and distribution for Nue projects. 🚀  
+## Get Involved 🤝
 
-## Get Involved  
-Join us in our mission to shape the future. Explore our website to learn more about our initiatives, events, and opportunities to collaborate. 🌐  
+Jump on board and help us shape the future! Dive into our website to discover more about our initiatives, events, and ways you can collaborate with us. 🌐
 
-### How to Apply
+### How to Apply 💼
 
-Commit to excellence! Show us your passion and skills, and if we see your excellence shining through, you will be invited to join our team. We look forward to hearing from you!
+Commit to excellence! Show us your passion and mad skills, and if you dazzle us with your brilliance, you'll get an invite to join our awesome team. We can't wait to hear from you! 🎉
+- **BTW** - Just fork these repos and give them a shiny upgrade to snag the grand invitation! 🚀🔧 LOL
 
-
-Together, let's create a brighter future! 🌟
+Together, let's create a brighter, bolder future! 🌟
